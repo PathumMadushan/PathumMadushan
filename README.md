@@ -79,7 +79,7 @@ I'm passionate about Data Science, Artificial Intelligence and solving real-worl
 
 ## 🎲 Fun Facts About Me 🎲
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=600&color=00F5FF,FF00FF,00FF00,FFD700&center=true&vCenter=true&multiline=true&width=750&height=160&lines=I+can+spend+hours+cleaning+a+messy+dataset;I+actually+enjoy+debugging+%F0%9F%98%84;print()+is+my+best+friend;Every+dataset+tells+a+story;Coffee+%2B+Code+%3D+perfect+combo+%E2%98%95"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=00F5FF,FF00FF,00FF00,FFD700&center=true&vCenter=true&multiline=true&width=750&height=160&lines=I+can+spend+hours+cleaning+a+messy+dataset;I+actually+enjoy+debugging+%F0%9F%98%84;print()+is+my+best+friend;Every+dataset+tells+a+story;Coffee+%2B+Code+%3D+perfect+combo+%E2%98%95"/>
 
 </div>
 
