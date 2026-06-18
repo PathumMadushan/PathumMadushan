@@ -102,7 +102,7 @@ I'm passionate about Data Science, Artificial Intelligence and solving real-worl
 
 ## ⚡ Data Scientist Mindset ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF0000,FF7A00,00FF00,00C2FF,8A2BE2&center=true&vCenter=true&width=800&lines=COLLECT+DATA;ANALYZE+PATTERNS;BUILD+MODELS;GENERATE+INSIGHTS;NEVER+STOP+LEARNING"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=FF0000,FF7A00,00FF00,00C2FF,8A2BE2&center=true&vCenter=true&width=800&lines=COLLECT+DATA;ANALYZE+PATTERNS;BUILD+MODELS;GENERATE+INSIGHTS;NEVER+STOP+LEARNING"/>
 
 </div>
 
