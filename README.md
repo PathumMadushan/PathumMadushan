@@ -64,7 +64,7 @@ I'm passionate about Data Science, Artificial Intelligence and solving real-worl
 
 <div align="center">
 
-### 💡 Quote
+### 💡 Quote 💡
 
 <blockquote style="color:#00F5FF; font-size:18px;">
 "Without data, you're just another person with an opinion."
@@ -77,7 +77,7 @@ I'm passionate about Data Science, Artificial Intelligence and solving real-worl
 
 <div align="center">
 
-## 🎲 Fun Facts About Me
+## 🎲 Fun Facts About Me 🎲
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=600&color=00F5FF,FF00FF,00FF00,FFD700&center=true&vCenter=true&multiline=true&width=750&height=160&lines=I+can+spend+hours+cleaning+a+messy+dataset;I+actually+enjoy+debugging+%F0%9F%98%84;print()+is+my+best+friend;Every+dataset+tells+a+story;Coffee+%2B+Code+%3D+perfect+combo+%E2%98%95"/>
 
@@ -87,7 +87,7 @@ I'm passionate about Data Science, Artificial Intelligence and solving real-worl
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 📊
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathumMadushan&theme=tokyonight"/>
 
@@ -100,7 +100,7 @@ I'm passionate about Data Science, Artificial Intelligence and solving real-worl
 
 <div align="center">
 
-## ⚡ Data Scientist Mindset
+## ⚡ Data Scientist Mindset ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF0000,FF7A00,00FF00,00C2FF,8A2BE2&center=true&vCenter=true&width=800&lines=COLLECT+DATA;ANALYZE+PATTERNS;BUILD+MODELS;GENERATE+INSIGHTS;NEVER+STOP+LEARNING"/>
 
