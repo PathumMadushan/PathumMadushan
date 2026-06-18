@@ -108,7 +108,7 @@ I'm passionate about Data Science, Artificial Intelligence and solving real-worl
 
 <div align="center">
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me 🌐
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pathum.madushan.5201254)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/p_a_t_h_u_m_m)
@@ -116,7 +116,7 @@ I'm passionate about Data Science, Artificial Intelligence and solving real-worl
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathummadushan039@gmail.com)
 
 </div>
-
+<br>
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=PathumMadushan&label=PROFILE+VIEWS&color=brightgreen&labelColor=000000&style=for-the-badge"/>
