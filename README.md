@@ -9,7 +9,7 @@
 ### 📊 Data Science Undergraduate 📊
 <b>AI Enthusiast | Future Data Scientist</b>
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/neural-network.gif" width="420"/>
+<img src="https://media.tenor.com/XM9QJ5rJmJ0AAAAC/ai-machine-learning.gif" width="450"/>
 
 </div>
 
