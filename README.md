@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6A00FF&height=200&section=header&text=Data%20Science%20Undergraduate&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6A00FF&height=200&section=header&text=Data%20Science%20Undergraduate&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38"/>
 
 <div align="center">
 
