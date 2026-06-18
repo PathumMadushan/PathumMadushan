@@ -106,6 +106,15 @@ I'm passionate about Data Science, Artificial Intelligence and solving real-worl
 
 </div>
 
+<div align="center">
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/p_a_t_h_u_m_m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pathum-madushan-56a741327)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathummadushan039@gmail.com)
+
+</div>
 ---
 
 <div align="center">
